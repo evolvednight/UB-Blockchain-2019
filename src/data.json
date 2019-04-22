@@ -1,0 +1,1455 @@
+[
+    {
+      "Seller": "William Willink",
+      "Buyer": "Peter Hershey",
+      "Date": "August 13, 1813",
+      "Transaction Type": "Inheritance",
+      "Price ": 0,
+      "Owner": "Peter Hershey",
+      "Tax year": 1813,
+      "Taxes Received": "Y",
+      "Amount": 50,
+      "Owner_1": "Dominique Daybach",
+      "Mortgage Amount": 2257,
+      "Current Balance": 0,
+      "Status": "Open",
+      "Owner_2": "Peter Hershey",
+      "Case Number": 239485,
+      "Judgement Description": "Lost property in card game - property given as collateral.",
+      "Judgement File Date": "12/1/1815",
+      "Amount_1": 1500
+    },
+    {
+      "Seller": "Peter Hershey",
+      "Buyer": "Magdalena Hershey",
+      "Date": "June 24, 1819",
+      "Transaction Type": "Will",
+      "Price ": 0,
+      "Owner": "Peter Hershey",
+      "Tax year": 1814,
+      "Taxes Received": "Y",
+      "Amount": 55,
+      "Owner_1": "William Gigging",
+      "Mortgage Amount": 2730,
+      "Current Balance": 0,
+      "Status": "Transferred"
+    },
+    {
+      "Seller": "Joseph Hershey\r\nMagdalean Hershey",
+      "Buyer": "Anthony Fornes",
+      "Date": "July 22, 1830",
+      "Transaction Type": "Sale",
+      "Price ": 2980,
+      "Owner": "Peter Hershey",
+      "Tax year": 1815,
+      "Taxes Received": "Y",
+      "Amount": 60,
+      "Owner_1": "William Gigging",
+      "Mortgage Amount": 2246,
+      "Current Balance": 2246,
+      "Status": "Foreclosure"
+    },
+    {
+      "Seller": "Anthony Fornes",
+      "Buyer": "John Furnes",
+      "Date": "Feb 6, 1837",
+      "Transaction Type": "Sale",
+      "Price ": 1381,
+      "Owner": "Peter Hershey",
+      "Tax year": 1816,
+      "Taxes Received": "y",
+      "Amount": 65,
+      "Owner_1": "Buffalo Suburban Estates",
+      "Mortgage Amount": 24823,
+      "Current Balance": 20000,
+      "Status": "Foreclosure"
+    },
+    {
+      "Seller": "Anthony Fornes",
+      "Buyer": "Florenze Furnes",
+      "Date": "Feb 6, 1837",
+      "Transaction Type": "Sale",
+      "Price ": 1384,
+      "Owner": "Peter Hershey",
+      "Tax year": 1817,
+      "Taxes Received": "y",
+      "Amount": 70
+    },
+    {
+      "Seller": "Florenze Furnes\r\nMagdalena",
+      "Buyer": "John Forness",
+      "Date": "June 4, 1845",
+      "Transaction Type": "Sale",
+      "Price ": 330,
+      "Owner": "Peter Hershey",
+      "Tax year": 1818,
+      "Taxes Received": "Y",
+      "Amount": 75
+    },
+    {
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1819,
+      "Taxes Received": "Y",
+      "Amount": 80
+    },
+    {
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1820,
+      "Taxes Received": "Y",
+      "Amount": 85
+    },
+    {
+      "Seller": "John Forness\r\nRosena",
+      "Buyer": "George F. Richard",
+      "Date": "July 16, 1847",
+      "Transaction Type": "Sale",
+      "Price ": 1800,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1821,
+      "Taxes Received": "Y",
+      "Amount": 90
+    },
+    {
+      "Seller": "George F. Richard",
+      "Buyer": "Dominique Daybach\r\nAloyus Scherb\r\nJohn Saltzmann",
+      "Date": "June 30, 1853",
+      "Transaction Type": "Sale",
+      "Price ": 2457,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1822,
+      "Taxes Received": "Y",
+      "Amount": 95
+    },
+    {
+      "Seller": "Dominique Daybach\r\nAloyus Scherb\r\nJohn Saltzmann",
+      "Buyer": "George Monnier",
+      "Date": "June 30, 1853",
+      "Transaction Type": "Mortgage",
+      "Price ": 2257,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1823,
+      "Taxes Received": "Y",
+      "Amount": 100
+    },
+    {
+      "Seller": "George Monnier",
+      "Buyer": "John Bliss",
+      "Date": "August 18, 1855",
+      "Transaction Type": "Mortgage",
+      "Price ": "-",
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1824,
+      "Taxes Received": "Y",
+      "Amount": 105
+    },
+    {
+      "Seller": "Dominique Daybach\r\nAloyus Scherb\r\n",
+      "Buyer": "John Saltzmann",
+      "Date": "Nov 2, 1853",
+      "Transaction Type": "Sale",
+      "Price ": 1600,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1825,
+      "Taxes Received": "Y",
+      "Amount": 110
+    },
+    {
+      "Seller": "John Saltzmann\r\nHelena",
+      "Buyer": "Christian Witmeier",
+      "Date": "March 15, 1854",
+      "Transaction Type": "Sale",
+      "Price ": 2652,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1826,
+      "Taxes Received": "Y",
+      "Amount": 115
+    },
+    {
+      "Seller": "Christian Witmeier",
+      "Buyer": "William Gigging",
+      "Date": "Jan 34, 1857",
+      "Transaction Type": "Sale",
+      "Price ": 2730,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1827,
+      "Taxes Received": "Y",
+      "Amount": 120
+    },
+    {
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1828,
+      "Taxes Received": "Y",
+      "Amount": 125
+    },
+    {
+      "Seller": "Orin Lockwood, Sheriff",
+      "Buyer": "William Gigging",
+      "Date": "May 20, 1857",
+      "Transaction Type": "Foreclosure",
+      "Price ": 2246,
+      "Owner": "Magdalena Hershey",
+      "Tax year": 1829,
+      "Taxes Received": "Y",
+      "Amount": 130
+    },
+    {
+      "Seller": "William Gigging",
+      "Buyer": "Buffalo Savings Bank",
+      "Date": "Nov 23, 1858",
+      "Transaction Type": "Foreclosure",
+      "Price ": 800,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1830,
+      "Taxes Received": "Y",
+      "Amount": 135
+    },
+    {
+      "Seller": "William Gigging",
+      "Buyer": "Elisabeth Gigging",
+      "Date": "April, 1859",
+      "Transaction Type": "Mortgage",
+      "Price ": 1200,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1831,
+      "Taxes Received": "Y",
+      "Amount": 140
+    },
+    {
+      "Seller": "Elisabeth Gigging",
+      "Buyer": "Hugh Webster \r\nDaniel Webster",
+      "Date": "June 1859",
+      "Transaction Type": "Mortgage",
+      "Price ": 1200,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1832,
+      "Taxes Received": "Y",
+      "Amount": 145
+    },
+    {
+      "Seller": "William Gigging",
+      "Buyer": "Goodwin Stoddard",
+      "Date": "April 1859",
+      "Transaction Type": "Mortgage",
+      "Price ": 490,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1833,
+      "Taxes Received": "Y",
+      "Amount": 150
+    },
+    {
+      "Seller": "William Gigging\r\nElizabeth Giffing\r\nHugh Webster\r\nDaniel Webster\r\nGoodwin Stoddard",
+      "Buyer": "Buffalo Savings Bank",
+      "Date": "March 1860",
+      "Transaction Type": "Foreclosure",
+      "Price ": 800,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1834,
+      "Taxes Received": "Y",
+      "Amount": 155
+    },
+    {
+      "Seller": "Gustavus Scroggs, Sheriff",
+      "Buyer": "Hugh Webster \r\nDaniel Webster",
+      "Date": "September 1860",
+      "Transaction Type": "sale",
+      "Price ": 1022,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1835,
+      "Taxes Received": "Y",
+      "Amount": 160
+    },
+    {
+      "Seller": "Hugh Webster",
+      "Buyer": "Olivia Warriner",
+      "Date": "September 1861",
+      "Transaction Type": "sale",
+      "Price ": 1550,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1836,
+      "Taxes Received": "Y",
+      "Amount": 165
+    },
+    {
+      "Seller": "Olivia Warriner",
+      "Buyer": "Alexander Dimond",
+      "Date": "October 1874",
+      "Transaction Type": "sale",
+      "Price ": 6500,
+      "Owner": "John Furnes",
+      "Tax year": 1837,
+      "Taxes Received": "Y",
+      "Amount": 170
+    },
+    {
+      "Seller": "Alexander Dimond",
+      "Buyer": "Charles Berryman",
+      "Date": "April 1887",
+      "Transaction Type": "Sale",
+      "Price ": 8000,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1838,
+      "Taxes Received": "Y",
+      "Amount": 175
+    },
+    {
+      "Seller": "Charles Berryman",
+      "Buyer": "John Berryman",
+      "Date": "October 1909",
+      "Transaction Type": "will",
+      "Price ": "-",
+      "Owner": "Anthony Fornes",
+      "Tax year": 1839,
+      "Taxes Received": "Y",
+      "Amount": 180
+    },
+    {
+      "Seller": "John Berryman",
+      "Buyer": "Buffalo Suburban Estates, inc.",
+      "Date": "October 1914",
+      "Transaction Type": "Sale",
+      "Price ": 800,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1840,
+      "Taxes Received": "Y",
+      "Amount": 185
+    },
+    {
+      "Seller": "Buffalo Suburban Estates, inc.",
+      "Buyer": "John Berryman",
+      "Date": "August  1915",
+      "Transaction Type": "Mortgage",
+      "Price ": 24823,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1841,
+      "Taxes Received": "Y",
+      "Amount": 190
+    },
+    {
+      "Seller": "Buffalo Suburban Estates, inc.",
+      "Buyer": "John Berryman",
+      "Date": "November 1918",
+      "Transaction Type": "Foreclosure",
+      "Price ": 20000,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1842,
+      "Taxes Received": "Y",
+      "Amount": 195
+    },
+    {
+      "Seller": "John Berryman",
+      "Buyer": "Ella Langerman",
+      "Date": "June 1925",
+      "Transaction Type": "Sale",
+      "Price ": 1,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1843,
+      "Taxes Received": "Y",
+      "Amount": 200
+    },
+    {
+      "Seller": "Ella Langerman",
+      "Buyer": "Jean Renwick",
+      "Date": "June 1925",
+      "Transaction Type": "Sale",
+      "Price ": 1,
+      "Owner": "Anthony Fornes",
+      "Tax year": 1844,
+      "Taxes Received": "Y",
+      "Amount": 205
+    },
+    {
+      "Seller": "Jean Renwick",
+      "Buyer": "Grace Brady",
+      "Date": "July 1925",
+      "Transaction Type": "Sale",
+      "Price ": 1,
+      "Owner": "John Furnes",
+      "Tax year": 1845,
+      "Taxes Received": "Y",
+      "Amount": 210
+    },
+    {
+      "Seller": "Grace Brady",
+      "Buyer": "County of Erie",
+      "Date": "April 1938",
+      "Transaction Type": "Tax Sale",
+      "Price ": 700,
+      "Owner": "John Furnes",
+      "Tax year": 1846,
+      "Taxes Received": "Y",
+      "Amount": 215
+    },
+    {
+      "Seller": "County of Erie",
+      "Buyer": "Neil Weber",
+      "Date": "May 1946",
+      "Transaction Type": "Sale",
+      "Price ": 5000,
+      "Owner": "George F. Richard",
+      "Tax year": 1847,
+      "Taxes Received": "Y",
+      "Amount": 220
+    },
+    {
+      "Seller": "Neil Weber",
+      "Buyer": "Justus Kulp",
+      "Date": "January 1950",
+      "Transaction Type": "Sale",
+      "Price ": 2000,
+      "Owner": "George F. Richard",
+      "Tax year": 1848,
+      "Taxes Received": "Y",
+      "Amount": 225
+    },
+    {
+      "Seller": "Justus Kulp",
+      "Buyer": "Charles Fink",
+      "Date": "January 1950",
+      "Transaction Type": "Sale",
+      "Price ": 1,
+      "Owner": "George F. Richard",
+      "Tax year": 1849,
+      "Taxes Received": "Y",
+      "Amount": 230
+    },
+    {
+      "Seller": "Charles Fink",
+      "Buyer": "Albery Mayer",
+      "Date": "January 1968",
+      "Transaction Type": "Sale",
+      "Price ": 2000,
+      "Owner": "George F. Richard",
+      "Tax year": 1850,
+      "Taxes Received": "Y",
+      "Amount": 235
+    },
+    {
+      "Seller": "Albery Mayer",
+      "Buyer": "John Littlefield",
+      "Date": "September 1970",
+      "Transaction Type": "Sale",
+      "Price ": 18400,
+      "Owner": "George F. Richard",
+      "Tax year": 1851,
+      "Taxes Received": "Y",
+      "Amount": 240
+    },
+    {
+      "Seller": "John Littlefield",
+      "Buyer": "Richard Tobaz",
+      "Date": "January 1984",
+      "Transaction Type": "Sale",
+      "Price ": 34000,
+      "Owner": "Dominique Daybach",
+      "Tax year": 1852,
+      "Taxes Received": "Y",
+      "Amount": 245
+    },
+    {
+      "Seller": "Richard Tobaz",
+      "Buyer": "Victor Stachura",
+      "Date": "May 1985",
+      "Transaction Type": "Sale",
+      "Price ": 36000,
+      "Owner": "John Saltzmann",
+      "Tax year": 1853,
+      "Taxes Received": "Y",
+      "Amount": 250
+    },
+    {
+      "Owner": "Christian Witmeier",
+      "Tax year": 1854,
+      "Taxes Received": "Y",
+      "Amount": 255
+    },
+    {
+      "Owner": "Christian Witmeier",
+      "Tax year": 1855,
+      "Taxes Received": "Y",
+      "Amount": 260
+    },
+    {
+      "Owner": "Christian Witmeier",
+      "Tax year": 1856,
+      "Taxes Received": "Y",
+      "Amount": 265
+    },
+    {
+      "Owner": "William Gigging",
+      "Tax year": 1857,
+      "Taxes Received": "N",
+      "Amount": 270
+    },
+    {
+      "Owner": "Buffalo Savings Bank",
+      "Tax year": 1858,
+      "Taxes Received": "N",
+      "Amount": 275
+    },
+    {
+      "Owner": "Buffalo Savings Bank",
+      "Tax year": 1859,
+      "Taxes Received": "N",
+      "Amount": 280
+    },
+    {
+      "Owner": "Buffalo Savings Bank",
+      "Tax year": 1860,
+      "Taxes Received": "N",
+      "Amount": 285
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1861,
+      "Taxes Received": "Y",
+      "Amount": 290
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1862,
+      "Taxes Received": "Y",
+      "Amount": 295
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1863,
+      "Taxes Received": "Y",
+      "Amount": 300
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1864,
+      "Taxes Received": "Y",
+      "Amount": 305
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1865,
+      "Taxes Received": "Y",
+      "Amount": 310
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1866,
+      "Taxes Received": "Y",
+      "Amount": 315
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1867,
+      "Taxes Received": "Y",
+      "Amount": 320
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1868,
+      "Taxes Received": "Y",
+      "Amount": 325
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1869,
+      "Taxes Received": "Y",
+      "Amount": 330
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1870,
+      "Taxes Received": "Y",
+      "Amount": 335
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1871,
+      "Taxes Received": "Y",
+      "Amount": 340
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1872,
+      "Taxes Received": "Y",
+      "Amount": 345
+    },
+    {
+      "Owner": "Olivia Warriner",
+      "Tax year": 1873,
+      "Taxes Received": "Y",
+      "Amount": 350
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1874,
+      "Taxes Received": "Y",
+      "Amount": 355
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1875,
+      "Taxes Received": "Y",
+      "Amount": 360
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1876,
+      "Taxes Received": "Y",
+      "Amount": 365
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1877,
+      "Taxes Received": "Y",
+      "Amount": 370
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1878,
+      "Taxes Received": "Y",
+      "Amount": 375
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1879,
+      "Taxes Received": "Y",
+      "Amount": 380
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1880,
+      "Taxes Received": "Y",
+      "Amount": 385
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1881,
+      "Taxes Received": "Y",
+      "Amount": 390
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1882,
+      "Taxes Received": "Y",
+      "Amount": 395
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1883,
+      "Taxes Received": "Y",
+      "Amount": 400
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1884,
+      "Taxes Received": "Y",
+      "Amount": 405
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1885,
+      "Taxes Received": "Y",
+      "Amount": 410
+    },
+    {
+      "Owner": "Alexander Dimond",
+      "Tax year": 1886,
+      "Taxes Received": "Y",
+      "Amount": 415
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1887,
+      "Taxes Received": "Y",
+      "Amount": 420
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1888,
+      "Taxes Received": "Y",
+      "Amount": 425
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1889,
+      "Taxes Received": "Y",
+      "Amount": 430
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1890,
+      "Taxes Received": "Y",
+      "Amount": 435
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1891,
+      "Taxes Received": "Y",
+      "Amount": 440
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1892,
+      "Taxes Received": "Y",
+      "Amount": 445
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1893,
+      "Taxes Received": "Y",
+      "Amount": 450
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1894,
+      "Taxes Received": "Y",
+      "Amount": 455
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1895,
+      "Taxes Received": "Y",
+      "Amount": 460
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1896,
+      "Taxes Received": "Y",
+      "Amount": 465
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1897,
+      "Taxes Received": "Y",
+      "Amount": 470
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1898,
+      "Taxes Received": "Y",
+      "Amount": 475
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1899,
+      "Taxes Received": "Y",
+      "Amount": 480
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1900,
+      "Taxes Received": "Y",
+      "Amount": 485
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1901,
+      "Taxes Received": "Y",
+      "Amount": 490
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1902,
+      "Taxes Received": "Y",
+      "Amount": 495
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1903,
+      "Taxes Received": "Y",
+      "Amount": 500
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1904,
+      "Taxes Received": "Y",
+      "Amount": 505
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1905,
+      "Taxes Received": "Y",
+      "Amount": 510
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1906,
+      "Taxes Received": "Y",
+      "Amount": 515
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1907,
+      "Taxes Received": "Y",
+      "Amount": 520
+    },
+    {
+      "Owner": "Charles Berryman",
+      "Tax year": 1908,
+      "Taxes Received": "Y",
+      "Amount": 525
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1909,
+      "Taxes Received": "Y",
+      "Amount": 530
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1910,
+      "Taxes Received": "Y",
+      "Amount": 535
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1911,
+      "Taxes Received": "Y",
+      "Amount": 540
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1912,
+      "Taxes Received": "Y",
+      "Amount": 545
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1913,
+      "Taxes Received": "Y",
+      "Amount": 550
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1914,
+      "Taxes Received": "Y",
+      "Amount": 555
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1915,
+      "Taxes Received": "Y",
+      "Amount": 560
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1916,
+      "Taxes Received": "Y",
+      "Amount": 565
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1917,
+      "Taxes Received": "Y",
+      "Amount": 570
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1918,
+      "Taxes Received": "Y",
+      "Amount": 575
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1919,
+      "Taxes Received": "Y",
+      "Amount": 580
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1920,
+      "Taxes Received": "Y",
+      "Amount": 585
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1921,
+      "Taxes Received": "Y",
+      "Amount": 590
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1922,
+      "Taxes Received": "Y",
+      "Amount": 595
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1923,
+      "Taxes Received": "Y",
+      "Amount": 600
+    },
+    {
+      "Owner": "John Berryman",
+      "Tax year": 1924,
+      "Taxes Received": "Y",
+      "Amount": 605
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1925,
+      "Taxes Received": "Y",
+      "Amount": 610
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1926,
+      "Taxes Received": "Y",
+      "Amount": 615
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1927,
+      "Taxes Received": "Y",
+      "Amount": 620
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1928,
+      "Taxes Received": "Y",
+      "Amount": 625
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1929,
+      "Taxes Received": "Y",
+      "Amount": 630
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1930,
+      "Taxes Received": "Y",
+      "Amount": 635
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1931,
+      "Taxes Received": "Y",
+      "Amount": 640
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1932,
+      "Taxes Received": "Y",
+      "Amount": 645
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1933,
+      "Taxes Received": "Y",
+      "Amount": 650
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1934,
+      "Taxes Received": "Y",
+      "Amount": 655
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1935,
+      "Taxes Received": "Y",
+      "Amount": 660
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1936,
+      "Taxes Received": "Y",
+      "Amount": 665
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1937,
+      "Taxes Received": "Y",
+      "Amount": 670
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1938,
+      "Taxes Received": "Y",
+      "Amount": 675
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1939,
+      "Taxes Received": "Y",
+      "Amount": 680
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1940,
+      "Taxes Received": "Y",
+      "Amount": 685
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1941,
+      "Taxes Received": "Y",
+      "Amount": 690
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1942,
+      "Taxes Received": "Y",
+      "Amount": 695
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1943,
+      "Taxes Received": "Y",
+      "Amount": 700
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1944,
+      "Taxes Received": "Y",
+      "Amount": 705
+    },
+    {
+      "Owner": "Grace Brady",
+      "Tax year": 1945,
+      "Taxes Received": "Y",
+      "Amount": 710
+    },
+    {
+      "Owner": "Neil Weber",
+      "Tax year": 1946,
+      "Taxes Received": "Y",
+      "Amount": 715
+    },
+    {
+      "Owner": "Neil Weber",
+      "Tax year": 1947,
+      "Taxes Received": "Y",
+      "Amount": 720
+    },
+    {
+      "Owner": "Neil Weber",
+      "Tax year": 1948,
+      "Taxes Received": "Y",
+      "Amount": 725
+    },
+    {
+      "Owner": "Neil Weber",
+      "Tax year": 1949,
+      "Taxes Received": "Y",
+      "Amount": 730
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1950,
+      "Taxes Received": "Y",
+      "Amount": 735
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1951,
+      "Taxes Received": "Y",
+      "Amount": 740
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1952,
+      "Taxes Received": "Y",
+      "Amount": 745
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1953,
+      "Taxes Received": "Y",
+      "Amount": 750
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1954,
+      "Taxes Received": "Y",
+      "Amount": 755
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1955,
+      "Taxes Received": "Y",
+      "Amount": 760
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1956,
+      "Taxes Received": "Y",
+      "Amount": 765
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1957,
+      "Taxes Received": "Y",
+      "Amount": 770
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1958,
+      "Taxes Received": "Y",
+      "Amount": 775
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1959,
+      "Taxes Received": "Y",
+      "Amount": 780
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1960,
+      "Taxes Received": "Y",
+      "Amount": 785
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1961,
+      "Taxes Received": "Y",
+      "Amount": 790
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1962,
+      "Taxes Received": "Y",
+      "Amount": 795
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1963,
+      "Taxes Received": "Y",
+      "Amount": 800
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1964,
+      "Taxes Received": "Y",
+      "Amount": 805
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1965,
+      "Taxes Received": "Y",
+      "Amount": 810
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1966,
+      "Taxes Received": "Y",
+      "Amount": 815
+    },
+    {
+      "Owner": "Charles Fink",
+      "Tax year": 1967,
+      "Taxes Received": "Y",
+      "Amount": 820
+    },
+    {
+      "Owner": "Albery Mayer",
+      "Tax year": 1968,
+      "Taxes Received": "Y",
+      "Amount": 825
+    },
+    {
+      "Owner": "Albery Mayer",
+      "Tax year": 1969,
+      "Taxes Received": "Y",
+      "Amount": 830
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1970,
+      "Taxes Received": "Y",
+      "Amount": 835
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1971,
+      "Taxes Received": "Y",
+      "Amount": 840
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1972,
+      "Taxes Received": "Y",
+      "Amount": 845
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1973,
+      "Taxes Received": "Y",
+      "Amount": 850
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1974,
+      "Taxes Received": "Y",
+      "Amount": 855
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1975,
+      "Taxes Received": "Y",
+      "Amount": 860
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1976,
+      "Taxes Received": "Y",
+      "Amount": 865
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1977,
+      "Taxes Received": "Y",
+      "Amount": 870
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1978,
+      "Taxes Received": "Y",
+      "Amount": 875
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1979,
+      "Taxes Received": "Y",
+      "Amount": 880
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1980,
+      "Taxes Received": "Y",
+      "Amount": 885
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1981,
+      "Taxes Received": "Y",
+      "Amount": 890
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1982,
+      "Taxes Received": "Y",
+      "Amount": 895
+    },
+    {
+      "Owner": "John Littlefield",
+      "Tax year": 1983,
+      "Taxes Received": "Y",
+      "Amount": 900
+    },
+    {
+      "Owner": "Richard Tobaz",
+      "Tax year": 1984,
+      "Taxes Received": "Y",
+      "Amount": 905
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1985,
+      "Taxes Received": "Y",
+      "Amount": 910
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1986,
+      "Taxes Received": "Y",
+      "Amount": 915
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1987,
+      "Taxes Received": "Y",
+      "Amount": 920
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1988,
+      "Taxes Received": "Y",
+      "Amount": 925
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1989,
+      "Taxes Received": "Y",
+      "Amount": 930
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1990,
+      "Taxes Received": "Y",
+      "Amount": 935
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1991,
+      "Taxes Received": "Y",
+      "Amount": 940
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1992,
+      "Taxes Received": "Y",
+      "Amount": 945
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1993,
+      "Taxes Received": "Y",
+      "Amount": 950
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1994,
+      "Taxes Received": "Y",
+      "Amount": 955
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1995,
+      "Taxes Received": "Y",
+      "Amount": 960
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1996,
+      "Taxes Received": "Y",
+      "Amount": 965
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1997,
+      "Taxes Received": "Y",
+      "Amount": 970
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1998,
+      "Taxes Received": "Y",
+      "Amount": 975
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 1999,
+      "Taxes Received": "Y",
+      "Amount": 980
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2000,
+      "Taxes Received": "Y",
+      "Amount": 985
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2001,
+      "Taxes Received": "Y",
+      "Amount": 990
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2002,
+      "Taxes Received": "Y",
+      "Amount": 995
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2003,
+      "Taxes Received": "Y",
+      "Amount": 1000
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2004,
+      "Taxes Received": "Y",
+      "Amount": 1005
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2005,
+      "Taxes Received": "Y",
+      "Amount": 1010
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2006,
+      "Taxes Received": "Y",
+      "Amount": 1015
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2007,
+      "Taxes Received": "Y",
+      "Amount": 1020
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2008,
+      "Taxes Received": "Y",
+      "Amount": 1025
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2009,
+      "Taxes Received": "Y",
+      "Amount": 1030
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2010,
+      "Taxes Received": "Y",
+      "Amount": 1035
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2011,
+      "Taxes Received": "Y",
+      "Amount": 1040
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2012,
+      "Taxes Received": "Y",
+      "Amount": 1045
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2013,
+      "Taxes Received": "Y",
+      "Amount": 1050
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2014,
+      "Taxes Received": "Y",
+      "Amount": 1055
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2015,
+      "Taxes Received": "Y",
+      "Amount": 1060
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2016,
+      "Taxes Received": "Y",
+      "Amount": 1065
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2017,
+      "Taxes Received": "Y",
+      "Amount": 1070
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2018,
+      "Taxes Received": "Y",
+      "Amount": 1075
+    },
+    {
+      "Owner": "Victor Stachura",
+      "Tax year": 2019,
+      "Taxes Received": "Y",
+      "Amount": 1080
+    }
+  ]

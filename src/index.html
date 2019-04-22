@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+<head>
+  <title>M&T Check</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style>
+  table, th, td {
+    border-radius: 25px;
+    border-collapse: collapse;
+    float: center;
+  }
+  table.blueTable {
+    width: 100%;
+    text-align: center;
+    float: center;
+
+  }
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+    border-radius: 25px;
+    float: center;
+
+
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+    border-radius: 25px;
+
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #D0E4F5;
+  }
+  table.blueTable thead {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    border-bottom: 2px solid #444444;
+  }
+  table.blueTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.blueTable thead th:first-child {
+    border-left: none;
+  }
+
+  table.blueTable tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+  </style>
+<script src="xlsx.full.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+
+
+<div class="w3-container w3-teal">
+  <h1><img src="mbank.jpg" alt="Car" style="width:10%"></h1>
+</div>
+
+
+
+<div class="w3-container">
+
+</div>
+<h4>370 Berryman Dr</h4>
+<p>Tax Check</p>
+<button type=button id="butBuy" style="visibility:hidden;float:right;padding:25px;" disabled>Buy</button>
+
+  Name:<br>
+
+  <input id="textIn" type="textName" name="firstname"><br>
+  <button class = "btn" type="button" onclick="myFunction()">Submit</button>
+
+<script>
+function myFunction() {
+  //document.getElementById("myP").style.visibility = "hidden";
+  var text =  document.getElementById("textIn").value;
+  if(text == "m&t"){
+  document.getElementById("butBuy").style.visibility='visible';
+
+  document.getElementById("ttable").style.visibility='visible';
+}
+}
+</script>
+<div class="w3-container w3-teal">
+  <br>
+</div>
+
+
+<div id="ttable" style="visibility:hidden">
+  <table class="blueTable">
+    <tr>
+
+     <th>
+       <dir id="reportOwner">
+         <h2>Owner: David Moss</h2>
+         <img src="tick.png" height="100px" width="100px">
+
+       </dir>
+     </th>
+
+     <th>
+       <dir id="reportTax">
+         <h2>Tax owed: $365.80</h2>
+         <img src="cross.png" height="100px" width="100px">
+       </dir>
+     </th>
+   </tr>
+
+   <tr>
+    <th>
+      <dir id="reportMorgage">
+        <h3>Mortgage Amount: $32,420</h3>
+        <img src="cross.png" height="100px" width="100px">
+
+      </dir>
+    </th>
+    <th>
+      <dir id="reportJudegment">
+        <h3>Judgement: Jimmy Joe, 23123 Lost car game</h3>
+        <h3>12/1/1890 | $11,242</h3>
+        <img src="cross.png" height="100px" width="100px">
+      </dir>
+    </th>
+  </tr>
+
+</div>
+
+</body>
+</html>
